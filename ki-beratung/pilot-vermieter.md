@@ -56,6 +56,30 @@ Herausfinden, was ihn wirklich Zeit und Nerven kostet:
 - **Keine Rechts- und Steuerberatung:** Ich richte Werkzeuge und Abläufe ein. Ob eine Mieterhöhung zulässig ist oder was steuerlich absetzbar ist, klärt er mit Steuerberater, Mieterverein oder Haus & Grund.
 - **Stunden mitschreiben**, auch beim Festpreis. So weiß ich danach, was solche Pakete wirklich kosten.
 
+## Update: Er arbeitet komplett mit Excel
+
+**Bei Excel bleiben, kein neues Tool aufzwingen.** Das senkt die Hürde enorm. Mein Verkaufsargument: *„Du musst nichts Neues lernen. Wir machen deine Tabellen schlau.“*
+
+### Was ich mit seinen Tabellen machen kann
+| Baustein | Konkret |
+|---|---|
+| **Aufräumen & Struktur** | Eine Arbeitsmappe mit festen Blättern: Wohnungen · Mieter · Mieteingänge · Kosten/Belege · Nebenkosten · Fristen. Daten als „echte“ Tabellen (Strg+T), Dropdowns statt Freitext |
+| **Automatische Warnungen** | Bedingte Formatierung: Miete nicht eingegangen → rot, Frist in den nächsten 30 Tagen → gelb |
+| **Mieteingänge abgleichen** | Kontoauszug als CSV aus dem Onlinebanking importieren und automatisch den Mietern zuordnen (Power Query oder Formeln) |
+| **Nebenkosten** | Verteilerschlüssel (Fläche, Personen, Verbrauch) als Formeln. Kosten eintragen, dann rechnet die Tabelle die Anteile aus |
+| **Steuer-Übersicht** | Summen pro Kategorie und Wohnung für die Anlage V bzw. den Steuerberater, auf Knopfdruck |
+| **KI + Excel** | Zeigen, wie er die Tabelle mit KI nutzt: Formeln erklären und bauen lassen, Fragen an die Daten stellen („Welche Kosten hatte Wohnung 3 im letzten Jahr?“), Briefe und Mails aus den Tabellendaten erstellen. Es gibt inzwischen auch KI direkt in Excel (z. B. Copilot, je nach Microsoft-Abo, oder KI-Add-ins). Vorher prüfen, was er hat |
+
+### Vor dem Gespräch
+- Ihn bitten, mir die Tabelle(n) **kurz zu zeigen** (Bildschirm oder Treffen). Dann kann ich ein konkretes Angebot machen statt eines allgemeinen.
+- **Datenschutz:** Die Tabellen enthalten Mieterdaten. Nicht einfach an mich schicken oder in KI hochladen. Zum Testen und Bauen eine **anonymisierte Kopie** nehmen (Mieter A, B, C).
+- Klären: Welche Excel-Version bzw. welches Microsoft-365-Abo hat er? Arbeitet er am PC, am Mac oder auch am Handy?
+
+### Auswirkung aufs Angebot
+Damit wird das **Start-Paket (490 €)** sehr greifbar: *„Excel aufräumen + automatisieren + KI-Einweisung“*. Den Baustein „Digitale Ablage“ kann ich damit kombinieren. Eine neue Software braucht er wahrscheinlich nicht.
+
+> Notiz für später: Booker arbeiten oft auch viel mit Excel (Termine, Angebote, Abrechnungen). Wenn er die Excel-Verbesserung privat gut findet, ist der Sprung zu „Geht das auch im Job?“ klein. Bei Jobdaten aber nur mit firmeneigenen Tools.
+
 ## Warum das als Pilot so wertvoll ist
 - Erster zahlender Kunde und erste Referenz
 - Daraus entsteht ein **wiederholbares Paket „KI für Privatvermieter“**. Davon gibt es in Berlin sehr viele, oft mit Geld und wenig Zeit.
