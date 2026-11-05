@@ -72,7 +72,7 @@ Herausfinden, was ihn wirklich Zeit und Nerven kostet:
 
 ### Vor dem Gespräch
 - Ihn bitten, mir die Tabelle(n) **kurz zu zeigen** (Bildschirm oder Treffen). Dann kann ich ein konkretes Angebot machen statt eines allgemeinen.
-- **Datenschutz:** Die Tabellen enthalten Mieterdaten. Nicht einfach an mich schicken oder in KI hochladen. Zum Testen und Bauen eine **anonymisierte Kopie** nehmen (Mieter A, B, C).
+- **Datenschutz** (Details: `datenschutz-ki-checkliste.md`): Die Tabellen enthalten Mieterdaten. Nicht einfach an mich schicken oder in KI hochladen. Zum Testen und Bauen eine **anonymisierte Kopie** nehmen (Mieter A, B, C).
 - Klären: Welche Excel-Version bzw. welches Microsoft-365-Abo hat er? Arbeitet er am PC, am Mac oder auch am Handy?
 
 ### Auswirkung aufs Angebot
