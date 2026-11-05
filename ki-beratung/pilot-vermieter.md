@@ -82,7 +82,7 @@ Herausfinden, was ihn wirklich Zeit und Nerven kostet:
 ### Wichtig bei allem Beruflichen
 - **Datenschutz und Vertraulichkeit:** Gagen, Verträge und Künstlerdaten gehören **nicht** in private KI-Konten. Im Job nur Tools nutzen, die die Firma freigegeben hat (Konzerne haben oft z. B. Microsoft Copilot oder eigene Lösungen). Ich zeige ihm die **Arbeitsweise**, er wendet sie mit den erlaubten Tools an.
 - **Nicht aufdrängen:** Er ist erst mal Privatkunde. Wenn ich zu früh nach Jobkontakten frage, wirkt das schnell wie ein Verkaufstrick.
-- **DJ-Gigs getrennt halten:** Bei Live Nation geht es um Bands, nicht um DJs. Aftershow-Partys oder ein Support-Slot sind höchstens nebenbei möglich. Nicht mit dem Beratungsangebot vermischen.
+- **DJ-Gigs:** Er weiß, dass ich auflege, und hat mich schon gesehen. Nichts aktiv verkaufen. Gute Arbeit und die Beziehung erledigen das. Denkbar wären z. B. Aftershow-Partys, Release- oder Crew-Partys, Firmenfeiern (Weihnachtsfeier, Sommerfest), Kontakte zu Venues und Bands mit elektronischem Einschlag. Wenn es passt, kann ich es einmal locker ansprechen, z. B.: „Falls ihr mal für eine Aftershow oder Firmenfeier jemanden braucht, sag Bescheid.“
 
 ### Mögliche Nische, die sich hier abzeichnet
 **„KI & Automatisierung für die Live- und Eventbranche“**: Booking, Promotion, Venues, Agenturen.
