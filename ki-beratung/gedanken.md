@@ -113,3 +113,4 @@ Ziel z. B. **+25.000–35.000 € Gewinn/Jahr** zusätzlich.
 - Kooperation mit Gries (z. B. „Kreativ mit KI“-Workshop?)
 - Newsletter mit KI-Tipps für Einsteiger
 - Automatisierte Content-Erstellung für Reichweite
+- **Nische Live- & Eventbranche** (Booking, Promoter, Venues, Agenturen): Zugang über den Pilotkunden, er ist Booker bei Live Nation (siehe `pilot-vermieter.md`)

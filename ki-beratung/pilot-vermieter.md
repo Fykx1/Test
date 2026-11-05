@@ -60,3 +60,31 @@ Herausfinden, was ihn wirklich Zeit und Nerven kostet:
 - Erster zahlender Kunde und erste Referenz
 - Daraus entsteht ein **wiederholbares Paket „KI für Privatvermieter“**. Davon gibt es in Berlin sehr viele, oft mit Geld und wenig Zeit.
 - Liefert Stoff für einen Workshop: „Wohnungen vermieten mit KI: weniger Papierkram“
+
+---
+
+## Bonus: Er ist Booker bei Live Nation
+
+### Reihenfolge: erst privat überzeugen, dann beruflich
+1. **Erst das Vermieter-Projekt richtig gut machen.** Kein Pitch für die Firma im ersten Gespräch.
+2. Im Erstgespräch nebenbei fragen: *„Wie läuft das bei dir im Job? Nutzt ihr da schon KI?“* Zuhören, was ihn dort nervt.
+3. Wenn er privat merkt, wie viel Zeit er spart, kommt die Frage „Geht das auch im Job?“ oft von selbst. Das verkauft sich viel besser als ein Angebot von mir.
+
+### Was realistisch drin ist
+| Möglichkeit | Realistisch? | Notizen |
+|---|---|---|
+| **1:1-Coaching für ihn als Booker** | hoch | KI für Mails, Angebote, Recherche (Venues, Ticketzahlen, Routing), Zusammenfassungen. Bezahlt er privat oder über ein Weiterbildungsbudget |
+| **Workshop für sein Team** (z. B. ein Mittagstermin oder ein halber Tag) | mittel | Er müsste das intern anstoßen. Firmenpreis ca. 1.500–3.000 € für einen halben Tag |
+| **Großauftrag direkt von Live Nation** | niedrig | Konzern mit Einkauf, Compliance und IT-Vorgaben. Als Einzelperson kommt man da schwer rein, als Ziel jetzt unrealistisch |
+| **Sein Netzwerk in der Branche** | hoch | Kleinere Agenturen, Promoter, Veranstalter, Tourmanager, Bandmanagements, Venues. Wenig Zeit, viel Mail-Chaos. **Passt perfekt zur Nische Event/Live-Musik** |
+| **Empfehlung und Glaubwürdigkeit** | hoch | „Ich arbeite mit einem Booker von einem der größten Konzertveranstalter“: Firmennamen nur nennen, wenn er einverstanden ist |
+
+### Wichtig bei allem Beruflichen
+- **Datenschutz und Vertraulichkeit:** Gagen, Verträge und Künstlerdaten gehören **nicht** in private KI-Konten. Im Job nur Tools nutzen, die die Firma freigegeben hat (Konzerne haben oft z. B. Microsoft Copilot oder eigene Lösungen). Ich zeige ihm die **Arbeitsweise**, er wendet sie mit den erlaubten Tools an.
+- **Nicht aufdrängen:** Er ist erst mal Privatkunde. Wenn ich zu früh nach Jobkontakten frage, wirkt das schnell wie ein Verkaufstrick.
+- **DJ-Gigs getrennt halten:** Bei Live Nation geht es um Bands, nicht um DJs. Aftershow-Partys oder ein Support-Slot sind höchstens nebenbei möglich. Nicht mit dem Beratungsangebot vermischen.
+
+### Mögliche Nische, die sich hier abzeichnet
+**„KI & Automatisierung für die Live- und Eventbranche“**: Booking, Promotion, Venues, Agenturen.
+Ich kenne die Branche als DJ von innen, das CRM ist eine passende Referenz, und über ihn hätte ich einen Zugang.
+(Achtung: Falls das CRM nach dem Verkauf nicht mehr meins ist, klären, ob ich in der Branche Vergleichbares anbieten darf.)
